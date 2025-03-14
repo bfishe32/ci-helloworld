@@ -1,0 +1,7 @@
+1. CI is the automatic testing and building on push, while CD is the continuous deployment on push.
+
+2. The set of jobs (a workflow) that perform CI/CD on some action (push, merge, etc.)
+
+3. Jobs are the individual tasks performed in a pipeline, while a workflow is the graph of jobs to perform.
+
+4. The "works on my machine" problem of software only being compatible under some environments.
